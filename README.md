@@ -59,15 +59,6 @@ FUTURE_FS_01/
 ## 🙌 Acknowledgement
 
 This project is developed as part of the Full Stack Web Development Internship by Future Interns.
-
----
-
-## 📬 Contact
-
-**Name:** Vaishnavi
-**Email:** [your-email@example.com](mailto:your-email@example.com)
-**GitHub:** https://github.com/yourusername
-
 ---
 
 ⭐ If you like this project, feel free to give it a star!
